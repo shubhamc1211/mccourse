@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge-1.20.6-50.1.21-mdk.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge-1.20.6-50.1.21-mdk.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mcmodetest1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mcmodetest1.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mcmodetest1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mcmodetest1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.mcmod.mccourse.mcmodetest1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.mcmod.mccourse.mcmodetest1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.mcmod.mccourse.mcmodetest1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.mcmod.mccourse.mcmodetest1.test.iml" />
     </modules>
   </component>
 </project>
