@@ -3,16 +3,16 @@
   <configuration default="false" factoryName="Application" name="runData" singleton="false" type="Application">
     <option name="MAIN_CLASS_NAME" value="net.minecraftforge.bootstrap.ForgeBootstrap"/>
     <option name="VM_PARAMETERS" value="-Dforge.logging.console.level=debug -Dforge.logging.markers=REGISTRIES -Djava.net.preferIPv6Addresses=system"/>
-    <option name="PROGRAM_PARAMETERS" value="--launchTarget forge_userdev_data --assetIndex 18 --assetsDir C:\Users\user\.gradle\caches\forge_gradle\assets --gameDir . --mod testmode --all --output D:\Code\MinecraftMod\mcmodetest1\src\generated\resources --existing D:\Code\MinecraftMod\mcmodetest1\src\main\resources"/>
+    <option name="PROGRAM_PARAMETERS" value="--launchTarget forge_userdev_data --assetIndex 16 --assetsDir C:\Users\user\.gradle\caches\forge_gradle\assets --gameDir . --mod mccourse --all --output D:\Code\MinecraftMod\forge-1.20.6-50.1.21-mdk\src\generated\resources --existing D:\Code\MinecraftMod\forge-1.20.6-50.1.21-mdk\src\main\resources"/>
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$\run-data"/>
-    <module name="mcmodetest1.main"/>
+    <module name="forge-1.20.6-50.1.21-mdk.main"/>
     <envs>
-      <env name="MOD_CLASSES" value="$PROJECT_DIR$\build\sourcesSets\main"/>
+      <env name="MOD_CLASSES" value="$PROJECT_DIR$\out\production\resources;$PROJECT_DIR$\out\production\classes"/>
       <env name="MCP_MAPPINGS" value="parchment_1.20.6-2024.06.16-1.21"/>
     </envs>
     <method v="2">
       <option enabled="true" name="Make"/>
-      <option enabled="true" externalProjectPath="$PROJECT_DIR$" name="Gradle.BeforeRunTask" tasks=":prepareRunDataCompile"/>
+      <option enabled="true" externalProjectPath="$PROJECT_DIR$" name="Gradle.BeforeRunTask" tasks=":copyIntellijResources"/>
     </method>
   </configuration>
 </component>

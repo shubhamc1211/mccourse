@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "testmode resources",
+    "description": "${mod_id} resources",
     "pack_format": 32
   }
 }
